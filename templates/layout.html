@@ -1,27 +1,36 @@
-<!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Home{% endblock %} — opendatacommons.org</title>
-<body>
-  <header>
-    <h1>Open Data Commons</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Home</a></li>
-        {% for href, title in [
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
-  <div class="page">
-    {% block body %}{% endblock %}
-  </div>
-  <footer>
-    &copy; Copyright 2020 by Open Knowledge Foundation.
-  </footer>
-</body>
+<!DOCTYPE html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Legal tools for Open Data">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Home{% endblock %} — opendatacommons.org</title>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/static/css/vendor/jquery.mmenu.all.css'|url }}">
+    <link rel="stylesheet" href="{{ '/static/css/main.min.css'|url }}">
+    {% include 'head.html' %}
+  </head>
+  <body>
+    <div id="page">
+      <a class="contents-toggle" href="#contents">
+        <span><span>Contents</span></span>
+      </a>
+      <div class="intro" id="top">
+        <div class="container">
+          <a href="/" class="logo">{% include 'okfn-white.svg' %}</a>
+          <h1>Open Data Commons</h1>
+          <span class="description">Legal tools for Open Data</span>
+        </div>
+      </div>
+      <section>
+        <div class="container">
+          {% block body %}{% endblock %}
+        </div>
+      </section>
+      {% include 'footer.html' %}
+    </div>
+    {% include 'menu.html' %}
+    {% include 'scripts.html' %}
+  </body>
+</html>
