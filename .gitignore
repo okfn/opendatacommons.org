@@ -1,1 +1,3 @@
-assets/static/css/main.min.css
+assets/static/css
+assets/static/mmenu-js
+node_modules

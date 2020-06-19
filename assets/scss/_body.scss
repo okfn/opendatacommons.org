@@ -1,8 +1,7 @@
-.contents-toggle,
-a.mm-slideout {
-  position: fixed;
+a.contents-toggle {
+  position: absolute;
   top: 0;
-  right: 0;
+  left: 0;
   margin: 1em;
   width: 26px;
   height: 26px;
@@ -52,9 +51,8 @@ a.mm-slideout {
   }
 }
 
-html.mm-opened {
-  .contents-toggle,
-  a.mm-slideout {
+body.mm-wrapper_opened {
+  a.contents-toggle {
     & > span {
       height: 0;
       transition: none 0.5s ease;
@@ -83,6 +81,11 @@ html.mm-opened {
   }
 }
 
+.mm-listview {
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+}
 
 #contents {
   background-color: #fff;

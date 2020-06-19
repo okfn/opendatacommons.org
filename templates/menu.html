@@ -30,3 +30,15 @@
     </li>
   </ul>
 </nav>
+
+<script src="{{ '/static/mmenu-js/dist/mmenu.polyfills.js'|url }}"></script>
+<script src="{{ '/static/mmenu-js/dist/mmenu.js'|url }}"></script>
+<script>
+  document.addEventListener(
+    "DOMContentLoaded", function() {
+      new Mmenu("#contents", {
+        navbar: { title: "Open Data Commons"}
+      });
+    }
+  );
+</script>

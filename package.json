@@ -1,0 +1,15 @@
+{
+  "name": "opendatacommons.org",
+  "version": "0.0.0",
+  "description": "The opendatacommons.org website",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "copyfiles -u 1 node_modules/mmenu-js/dist/mmenu.css assets/static && copyfiles -u 1 node_modules/mmenu-js/dist/mmenu*.js assets/static",
+    "start": "lektor server -f scss -f npm"
+  },
+  "dependencies": {
+    "copyfiles": "^2.3.0",
+    "mmenu-js": "^8.5.13"
+  }
+}
