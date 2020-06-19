@@ -1,6 +1,6 @@
 # opendatacommons.org
 
-The opendatacommons.org website
+WIP new design for opendatacommons.org website
 
 ## Local Development
 
