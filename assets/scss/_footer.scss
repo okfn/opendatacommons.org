@@ -50,6 +50,7 @@ html {
 
     ul li {
       padding-right: 1em;
+      list-style-type: none;
 
       @media (min-width: $large-screen) {
         display: inline;
