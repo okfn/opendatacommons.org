@@ -1,8 +1,8 @@
 {% if bag('settings.googleanalytics') %}
 <script>
   var okiConsent = {
-    analyticsTrackingID: "{{ bag('settings.googleanalytics') }}";
-  }
+    analyticsTrackingID: "{{ bag('settings.googleanalytics') }}"
+  };
 </script>
 <script src="https://a.okfn.org/html/oki/consent/assets/js/consent.js"></script>
 {% endif %}
