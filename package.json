@@ -7,7 +7,7 @@
   "scripts": {
     "build": "copyfiles -u 1 node_modules/mmenu-js/dist/mmenu.css assets/static && copyfiles -u 1 node_modules/mmenu-js/dist/mmenu*.js assets/static",
     "start": "lektor server -f scss -f npm",
-    "deploy": "lektor build -f scss -f npm && lektor deploy"
+    "deploy": "lektor build -f scss -f npm && lektor deploy ghp_ssh"
   },
   "dependencies": {
     "copyfiles": "^2.3.0",

@@ -14,5 +14,8 @@ lektor-scss = 1.3.8
 lektor-npm-support = 0.1.4
 
 
-[servers.ghpages]
+[servers.ghp_https]
+target = ghpages+https://okfn/opendatacommons.org
+
+[servers.ghp_ssh]
 target = ghpages://okfn/opendatacommons.org
