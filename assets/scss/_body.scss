@@ -140,3 +140,13 @@ body.mm-wrapper_opened {
 
   }
 }
+
+@media (max-width: 575px) {
+  #page > .intro .logo {
+    display: none;
+  }
+
+  h1 {
+    padding-top: 1.5em;
+  }
+}
