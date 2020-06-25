@@ -1,5 +1,5 @@
 #ok-panel {
-    border-color: $dark-gray;
+    border-color: $dark-grey;
 }
 
 #ok-panel-wrapper {
@@ -8,7 +8,7 @@
 
 #ok-panel-wrapper:not([data-breakpoint*='px'])>.ok-ribbon {
     margin-top: 0;
-    background-color: rgb(37,32,33);
+    background-color: $dark-grey;
     margin-bottom: 1.5em;
     background-color: transparent;
 }
