@@ -2,9 +2,21 @@ title: Open Data Commons Attribution License (ODC-By)
 ---
 body:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+“Attribution for Data/Databases”
 
 * [Human-readable summary](/licenses/by/summary/)
 * [Full legal text of current version (v1.0)](/licenses/by/1-0/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**How to apply**
+Insert prominently in all relevant locations a statement such as (replacing {DATA(BASE)-NAME} with the name of your data/database):
+
+This {DATA(BASE)-NAME} is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/{version}.
+
+**Notes**
+
+Local copy of the license: An alternative to using the url link is to keep a local copy of the license text in your project. In that case you should update the above notice to point to your local copy of the license within the project files.
+
+Use your own license for the Contents. You are welcome to apply your own specific license to the contents of the database. To do this just add a the second sentence with information about the license you wish to use.
+
+Why a separate license for the contents? See the relevant FAQ.
