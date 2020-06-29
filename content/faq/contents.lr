@@ -2,4 +2,58 @@ title: Frequently Asked Questions
 ---
 body:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* General
+* Licenses — see separate License FAQ
+* Community Norms — see separate Norms FAQ
+* Relation to Other Tools and Projects
+
+General
+
+Who Manages Open Data Commons?
+See the information on the about page.
+
+I Want to Get in Touch, How Do I Do That?
+Have a question not answered here, want to participate in our work, want to get in touch for whatever reason? See the contact page for information on how do so including details of our public community discussion list.
+
+Why Does Openness and Licensing Matter?
+Why bother about openness and licensing for data? After all they don’t matter in themselves: what we really care about are things like the progress of human knowledge or the freedom to understand and share.
+
+However, open data is crucial to progress on these more fundamental items. It’s crucial because open data is so much easier to break-up and recombine, to use and reuse. We therefore want people to have incentives to make their data open and for open data to be easily usable and reusable — i.e. for open data to form a ‘commons’.
+
+A good definition of openness acts as a standard that ensures different open datasets are ‘interoperable’ and therefore do form a commons. Licensing is important because it reduces uncertainty. Without a license you don’t know where you, as a user, stand: when are you allowed to use this data? Are you allowed to give to others? To distribute your own changes, etc?
+
+Together, a definition of openness, plus a set of conformant licenses deliver clarity and simplicity. Not only is interoperability ensured but people can know at a glance, and without having to go through a whole lot of legalese, what they are free to do. (For more see this article and this post).
+
+Thus, licensing and definitions are important even though they are only a small part of the overall picture. If we get them wrong they will keep on getting in the way of everything else. If we get them right we can stop worrying about them and focus our full energies on other things.
+
+For more see this blog post.
+
+What do you mean by open data?
+See the Open Definition.
+
+Do I need this legal stuff, can’t I just post my data online?
+The simple is: no — and yes you do need this legal stuff. Whether one likes it or not there are a whole bunch of jurisdictions in the world where there are IP rights in data(bases). Thus if you want your data to be open, even if that means public domain, you need to apply a license (or something very like a license).
+
+For more about open data licensing and data(base) rights see the Guide to Open Data Licensing.
+
+Licenses
+
+See the dedicated Licenses FAQ.
+
+Community Norms
+
+See the FAQ section on the Community Norms page.
+
+Relation to Other Tools
+
+CC ∅?
+
+CC ∅ (CC Zero) is a new licence from Creative Commons that is very similar to the PDDL. Like the PDDL it also complies with the Science Commons protocol. For more, see the page on their wiki. http://wiki.creativecommons.org/CC0
+
+What is the relationship with Open Data Commons and the new CC∅?
+
+CC∅ will be compliant with the Science Commons protocol for open data, as is the Open Data Commons PDDL. They will both be interoperable, so any data or content made available under either system can be mixed and remixed. Unlike CC∅ however, the Open Data Commons system includes a set of Community Norms that can be linked with the license.
+
+Why two implementations of the Science Commons Open Access Data Mark?
+
+The new Science Commons protocol only outlines what a legal document must do to comply with the protocol and receive the Open Access Data Mark — so anyone can create a legal instrument to comply with the mark. Both implementations will have their strengths, and one of the strengths of the Open Data Commons approach is the Community Norms document, which makes the Open Data Commons approach particularly applicable for data, especially data produced by the academic sector.
