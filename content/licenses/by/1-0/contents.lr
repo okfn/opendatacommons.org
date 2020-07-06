@@ -2,21 +2,22 @@ title: Open Data Commons Attribution License (ODC-By) v1.0
 ---
 body:
 
-Disclaimer
-Open Data Commons is not a law firm and does not provide legal services of any kind.
+<h4>Disclaimer</h4>
 
-Open Data Commons has no formal relationship with you. Your receipt of this document does not create any kind of agent-client relationship. Please seek the advice of a suitably qualified legal professional licensed to practice in your jurisdiction before using this document.
+        Open Data Commons is not a law firm and does not provide legal services of any kind.
 
-No warranties and disclaimer of any damages. This information is provided ‘as is‘, and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
+        Open Data Commons has no formal relationship with you. Your receipt of this document does not create any kind of agent-client relationship. Please seek the advice of a suitably qualified legal professional licensed to practice in your jurisdiction before using this document.
 
-Plain language summary
-A plain language summary of the ODC Attribution License (ODC-BY) is available.
+        No warranties and disclaimer of any damages. This information is provided ‘as is‘, and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
 
-Alternative formats:
-Plain Text odc_by_1.0_public_text
+A [plain language summary](/licenses/by/summary/) of the ODC Attribution License (ODC-BY) is available.
 
-ODC Attribution License (ODC-By)
-Preamble
+***
+
+<h2>Attribution License (ODC-By)</h2>
+
+<h4>Preamble</h4>
+
 The Open Data Commons Attribution License is a license agreement
 intended to allow users to freely share, modify, and use this Database
 subject only to the attribution requirements set out in Section 4.
@@ -42,7 +43,8 @@ You (as defined below)
 
 agree as follows:
 
-1.0 Definitions of Capitalised Words
+<h4>1.0 Definitions of Capitalised Words</h4>
+
 “Collective Database” – Means this Database in unmodified form as part
 of a collection of independent databases in themselves that together are
 assembled into a collective whole. A work that constitutes a Collective
@@ -126,61 +128,46 @@ exercise rights under this License despite a previous violation.
 
 Words in the singular include the plural and vice versa.
 
-2.0 What this License covers
+<h4>2.0 What this License covers</h4>
+
 2.1. Legal effect of this document. This License is:
 
-a. A license of applicable copyright and neighbouring rights;
+        a. A license of applicable copyright and neighbouring rights;
 
-b. A license of the Database Right; and
+        b. A license of the Database Right; and
 
-c. An agreement in contract between You and the Licensor.
+        c. An agreement in contract between You and the Licensor.
 
 2.2 Legal rights covered. This License covers the legal rights in the
 Database, including:
 
-a. Copyright. Any copyright or neighbouring rights in the Database.
-The copyright licensed includes any individual elements of the
-Database, but does not cover the copyright over the Contents
-independent of this Database. See Section 2.4 for details. Copyright
-law varies between jurisdictions, but is likely to cover: the Database
-model or schema, which is the structure, arrangement, and organisation
-of the Database, and can also include the Database tables and table
-indexes; the data entry and output sheets; and the Field names of
-Contents stored in the Database;
+        a. Copyright. Any copyright or neighbouring rights in the Database. The copyright licensed includes any individual elements of the Database, but does not cover the copyright over the Contents independent of this Database. See Section 2.4 for details. Copyright law varies between jurisdictions, but is likely to cover: the Database model or schema, which is the structure, arrangement, and organisation of the Database, and can also include the Database tables and table indexes; the data entry and output sheets; and the Field names of Contents stored in the Database;
 
-b. Database Rights. Database Rights only extend to the Extraction and
-Re-utilisation of the whole or a Substantial part of the Contents.
-Database Rights can apply even when there is no copyright over the
-Database. Database Rights can also apply when the Contents are removed
-from the Database and are selected and arranged in a way that would
-not infringe any applicable copyright; and
+    b. Database Rights. Database Rights only extend to the Extraction and Re-utilisation of the whole or a Substantial part of the Contents. Database Rights can apply even when there is no copyright over the Database. Database Rights can also apply when the Contents are removed from the Database and are selected and arranged in a way that would not infringe any applicable copyright; and
 
-c. Contract. This is an agreement between You and the Licensor for
-access to the Database. In return you agree to certain conditions of
-use on this access as outlined in this License.
+    c. Contract. This is an agreement between You and the Licensor for access to the Database. In return you agree to certain conditions of use on this access as outlined in this License.
 
 2.3 Rights not covered.
 
-a. This License does not apply to computer programs used in the making
-or operation of the Database;
+        a. This License does not apply to computer programs used in the making or operation of the Database;
 
-b. This License does not cover any patents over the Contents or the
-Database; and
+        b. This License does not cover any patents over the Contents or the Database; and
 
-c. This License does not cover any trademarks associated with the
-Database.
+        c. This License does not cover any trademarks associated with the Database.
 
 2.4 Relationship to Contents in the Database. The individual items of
 the Contents contained in this Database may be covered by other rights,
 including copyright, patent, data protection, privacy, or personality
 rights, and this License does not cover any rights (other than Database
 Rights or in contract) in individual Contents contained in the Database.
+
 For example, if used on a Database of images (the Contents), this
 License would not apply to copyright over individual images, which could
 have their own separate licenses, or one single license covering all of
 the rights over the images.
 
-3.0 Rights granted
+<h4>3.0 Rights granted</h4>
+
 3.1 Subject to the terms and conditions of this License, the Licensor
 grants to You a worldwide, royalty-free, non-exclusive, terminable (but
 only under Section 9) license to Use the Database for the duration of
@@ -192,41 +179,23 @@ future.
 
 The rights granted cover, for example:
 
-a. Extraction and Re-utilisation of the whole or a Substantial part of
-the Contents;
+        a. Extraction and Re-utilisation of the whole or a Substantial part of the Contents;
 
-b. Creation of Derivative Databases;
+        b. Creation of Derivative Databases;
 
-c. Creation of Collective Databases;
+        c. Creation of Collective Databases;
 
-d. Creation of temporary or permanent reproductions by any means and
-in any form, in whole or in part, including of any Derivative
-Databases or as a part of Collective Databases; and
+        d. Creation of temporary or permanent reproductions by any means and in any form, in whole or in part, including of any Derivative Databases or as a part of Collective Databases; and
 
-e. Distribution, communication, display, lending, making available, or
-performance to the public by any means and in any form, in whole or in
-part, including of any Derivative Database or as a part of Collective
-Databases.
+        e. Distribution, communication, display, lending, making available, or performance to the public by any means and in any form, in whole or in part, including of any Derivative Database or as a part of Collective Databases.
 
 3.2 Compulsory license schemes. For the avoidance of doubt:
 
-a. Non-waivable compulsory license schemes. In those jurisdictions in
-which the right to collect royalties through any statutory or
-compulsory licensing scheme cannot be waived, the Licensor reserves
-the exclusive right to collect such royalties for any exercise by You
-of the rights granted under this License;
+        a. Non-waivable compulsory license schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
 
-b. Waivable compulsory license schemes. In those jurisdictions in
-which the right to collect royalties through any statutory or
-compulsory licensing scheme can be waived, the Licensor waives the
-exclusive right to collect such royalties for any exercise by You of
-the rights granted under this License; and,
+        b. Waivable compulsory license schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can be waived, the Licensor waives the exclusive right to collect such royalties for any exercise by You of the rights granted under this License; and,
 
-c. Voluntary license schemes. The Licensor waives the right to collect
-royalties, whether individually or, in the event that the Licensor is
-a member of a collecting society that administers voluntary licensing
-schemes, via that society, from any exercise by You of the rights
-granted under this License.
+    c. Voluntary license schemes. The Licensor waives the right to collect royalties, whether individually or, in the event that the Licensor is a member of a collecting society that administers voluntary licensing schemes, via that society, from any exercise by You of the rights granted under this License.
 
 3.3 The right to release the Database under different terms, or to stop
 distributing or making available the Database, is reserved. Note that
@@ -234,7 +203,8 @@ this Database may be multiple-licensed, and so You may have the choice
 of using alternative licenses for this Database. Subject to Section
 10.4, all other rights not expressly granted by Licensor are reserved.
 
-4.0 Conditions of Use
+<h4>4.0 Conditions of Use</h4>
+
 4.1 The rights granted in Section 3 above are expressly made subject to
 Your complying with the following conditions of use. These are important
 conditions of this License, and if You fail to follow them, You will be
@@ -244,19 +214,13 @@ in material breach of its terms.
 Database, or the Database as part of a Collective Database, then You
 must:
 
-a. Do so only under the terms of this License;
+    a. Do so only under the terms of this License;
 
-b. Include a copy of this License or its Uniform Resource Identifier (URI)
-with the Database or Derivative Database, including both in the
-Database or Derivative Database and in any relevant documentation;
+    b. Include a copy of this License or its Uniform Resource Identifier (URI) with the Database or Derivative Database, including both in the Database or Derivative Database and in any relevant documentation;
 
-c. Keep intact any copyright or Database Right notices and notices
-that refer to this License; and
+    c. Keep intact any copyright or Database Right notices and notices that refer to this License; and
 
-d. If it is not possible to put the required notices in a particular
-file due to its structure, then You must include the notices in a
-location (such as a relevant directory) where users would be likely to
-look for it.
+    d. If it is not possible to put the required notices in a particular file due to its structure, then You must include the notices in a location (such as a relevant directory) where users would be likely to look for it.
 
 4.3 Notice for using output (Contents). Creating and Using a Produced
 Work does not require the notice in Section 4.2. However, if you
@@ -272,6 +236,7 @@ Section 4.3:
 
     Contains information from DATABASE NAME which is made available
     under the ODC Attribution License.
+
 DATABASE NAME should be replaced with the name of the Database and a
 hyperlink to the location of the Database. “ODC Attribution License”
 should contain a hyperlink to the URI of the text of this License. If
@@ -290,44 +255,32 @@ by You or another Person at Your direction. You may not impose any
 further restrictions on the exercise of the rights granted or affirmed
 under this License.
 
-5.0 Moral rights
+<h4>5.0 Moral rights</h4>
+
 5.1 Moral rights. This section covers moral rights, including any rights
 to be identified as the author of the Database or to object to treatment
 that would otherwise prejudice the author’s honour and reputation, or
 any other derogatory treatment:
 
-a. For jurisdictions allowing waiver of moral rights, Licensor waives
-all moral rights that Licensor may have in the Database to the fullest
-extent possible by the law of the relevant jurisdiction under Section
-10.4;
+    a. For jurisdictions allowing waiver of moral rights, Licensor waives all moral rights that Licensor may have in the Database to the fullest extent possible by the law of the relevant jurisdiction under Section 10.4;
 
-b. If waiver of moral rights under Section 5.1 a in the relevant
-jurisdiction is not possible, Licensor agrees not to assert any moral
-rights over the Database and waives all claims in moral rights to the
-fullest extent possible by the law of the relevant jurisdiction under
-Section 10.4; and
+    b. If waiver of moral rights under Section 5.1 a in the relevant jurisdiction is not possible, Licensor agrees not to assert any moral rights over the Database and waives all claims in moral rights to the fullest extent possible by the law of the relevant jurisdiction under Section 10.4; and
 
-c. For jurisdictions not allowing waiver or an agreement not to assert
-moral rights under Section 5.1 a and b, the author may retain their
-moral rights over certain aspects of the Database.
+    c. For jurisdictions not allowing waiver or an agreement not to assert moral rights under Section 5.1 a and b, the author may retain their moral rights over certain aspects of the Database.
 
 Please note that some jurisdictions do not allow for the waiver of moral
 rights, and so moral rights may still subsist over the Database in some
 jurisdictions.
 
-6.0 Fair dealing, Database exceptions, and other rights not affected
+<h4>6.0 Fair dealing, Database exceptions, and other rights not affected</h4>
+
 6.1 This License does not affect any rights that You or anyone else may
 independently have under any applicable law to make any use of this
 Database, including without limitation:
 
-a. Exceptions to the Database Right including: Extraction of Contents
-from non-electronic Databases for private purposes, Extraction for
-purposes of illustration for teaching or scientific research, and
-Extraction or Re-utilisation for public security or an administrative
-or judicial procedure.
+    a. Exceptions to the Database Right including: Extraction of Contents from non-electronic Databases for private purposes, Extraction for purposes of illustration for teaching or scientific research, and Extraction or Re-utilisation for public security or an administrative or judicial procedure.
 
-b. Fair dealing, fair use, or any other legally recognised limitation
-or exception to infringement of copyright or other applicable laws.
+    b. Fair dealing, fair use, or any other legally recognised limitation or exception to infringement of copyright or other applicable laws.
 
 6.2 This License does not affect any rights of lawful users to Extract
 and Re-utilise insubstantial parts of the Contents, evaluated
@@ -338,7 +291,8 @@ Re-utilisation of insubstantial parts of the Contents may however amount
 to the Extraction or Re-utilisation of a Substantial part of the
 Contents.
 
-7.0 Warranties and Disclaimer
+<h4>7.0 Warranties and Disclaimer</h4>
+
 7.1 The Database is licensed by the Licensor “as is” and without any
 warranty of any kind, either express, implied, or arising by statute,
 custom, course of dealing, or trade usage. Licensor specifically
@@ -348,7 +302,8 @@ errors, fitness for a particular purpose, merchantability, or otherwise.
 Some jurisdictions do not allow the exclusion of implied warranties, so
 this exclusion may not apply to You.
 
-8.0 Limitation of liability
+<h4>8.0 Limitation of liability</h4>
+
 8.1 Subject to any liability that may not be excluded or limited by law,
 the Licensor is not liable for, and expressly excludes, all liability
 for loss or damage however and whenever caused to anyone by any use
@@ -364,7 +319,8 @@ damages.
 direct financial loss to the extent it is caused by proved negligence on
 the part of the Licensor.
 
-9.0 Termination of Your rights under this License
+<h4>9.0 Termination of Your rights under this License</h4>
+
 9.1 Any breach by You of the terms and conditions of this License
 automatically terminates this License with immediate effect and without
 notice to You. For the avoidance of doubt, Persons who have received the
@@ -385,16 +341,11 @@ for the duration of applicable rights in the Database.
 conditions of this License, then your full rights under this License
 will be reinstated:
 
-a. Provisionally and subject to permanent termination until the 60th
-day after cessation of breach;
+    a. Provisionally and subject to permanent termination until the 60th day after cessation of breach;
 
-b. Permanently on the 60th day after cessation of breach unless
-otherwise reasonably notified by the Licensor; or
+    b. Permanently on the 60th day after cessation of breach unless otherwise reasonably notified by the Licensor; or
 
-c. Permanently if reasonably notified by the Licensor of the
-violation, this is the first time You have received notice of
-violation of this License from the Licensor, and You cure the
-violation prior to 30 days after your receipt of the notice.
+    c. Permanently if reasonably notified by the Licensor of the violation, this is the first time You have received notice of violation of this License from the Licensor, and You cure the violation prior to 30 days after your receipt of the notice.
 
 9.5 Notwithstanding the above, Licensor reserves the right to release
 the Database under different license terms or to stop distributing or
@@ -405,7 +356,8 @@ required to be, granted under the terms of this License), and this
 License will continue in full force and effect unless terminated as
 stated above.
 
-10.0 General
+<h4>10.0 General</h4>
+
 10.1 If any provision of this License is held to be invalid or
 unenforceable, that must not affect the validity or enforceability of
 the remainder of the terms and conditions of this License and each
