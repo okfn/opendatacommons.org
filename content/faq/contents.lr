@@ -3,19 +3,22 @@ title: Frequently Asked Questions
 body:
 
 * General
-* Licenses — see separate License FAQ
-* Community Norms — see separate Norms FAQ
+* Licenses — see separate [License FAQ](/faq/licenses/)
+* Community Norms — see separate [Norms FAQ](/norms/)
 * Relation to Other Tools and Projects
 
-General
+<h2>General</h2>
 
-Who Manages Open Data Commons?
-See the information on the about page.
+<h4>Who Manages Open Data Commons?</h4>
 
-I Want to Get in Touch, How Do I Do That?
+Open Data Commons is maintained by the [Open Knowledge Foundation](https://okfn.org/).
+
+<h4>I Want to Get in Touch, How Do I Do That?</h4>
+
 Have a question not answered here, want to participate in our work, want to get in touch for whatever reason? See the contact page for information on how do so including details of our public community discussion list.
 
-Why Does Openness and Licensing Matter?
+<h4>Why Does Openness and Licensing Matter?</h4>
+
 Why bother about openness and licensing for data? After all they don’t matter in themselves: what we really care about are things like the progress of human knowledge or the freedom to understand and share.
 
 However, open data is crucial to progress on these more fundamental items. It’s crucial because open data is so much easier to break-up and recombine, to use and reuse. We therefore want people to have incentives to make their data open and for open data to be easily usable and reusable — i.e. for open data to form a ‘commons’.
@@ -26,34 +29,34 @@ Together, a definition of openness, plus a set of conformant licenses deliver cl
 
 Thus, licensing and definitions are important even though they are only a small part of the overall picture. If we get them wrong they will keep on getting in the way of everything else. If we get them right we can stop worrying about them and focus our full energies on other things.
 
-For more see this blog post.
+For more information, read this [Open Knowledge Foundation blogpost](https://blog.okfn.org/2009/02/02/open-data-openness-and-licensing/).
 
-What do you mean by open data?
-See the Open Definition.
+<h4>What do you mean by open data?</h4>
 
-Do I need this legal stuff, can’t I just post my data online?
+See the [Open Definition](https://opendefinition.org/) which sets out principles that define “openness” in relation to data and content.
+
+<h4>Do I need this legal stuff, can’t I just post my data online?</h4>
+
 The simple is: no — and yes you do need this legal stuff. Whether one likes it or not there are a whole bunch of jurisdictions in the world where there are IP rights in data(bases). Thus if you want your data to be open, even if that means public domain, you need to apply a license (or something very like a license).
 
-For more about open data licensing and data(base) rights see the Guide to Open Data Licensing.
+<h2>Licenses</h2>
 
-Licenses
+See the dedicated [Licenses FAQ](/faq/licenses/).
 
-See the dedicated Licenses FAQ.
+<h2>Community Norms</h2>
 
-Community Norms
+See the FAQ section on the [Community Norms page](/norms/).
 
-See the FAQ section on the Community Norms page.
+<h2>Relation to Other Tools</h2>
 
-Relation to Other Tools
+<h4>CC ∅?</h4>
 
-CC ∅?
+CC ∅ (CC Zero) is a new licence from Creative Commons that is very similar to the [PDDL](/licenses/pddl/). Like the [PDDL](/licenses/pddl/) it also complies with the Science Commons protocol. For more, see the [page on their wiki](https://wiki.creativecommons.org/wiki/CC0).
 
-CC ∅ (CC Zero) is a new licence from Creative Commons that is very similar to the PDDL. Like the PDDL it also complies with the Science Commons protocol. For more, see the page on their wiki. http://wiki.creativecommons.org/CC0
+<h4>What is the relationship with Open Data Commons and the new CC∅?</h4>
 
-What is the relationship with Open Data Commons and the new CC∅?
+CC∅ will be compliant with the Science Commons protocol for open data, as is the Open Data Commons [PDDL](/licenses/pddl/). They will both be interoperable, so any data or content made available under either system can be mixed and remixed. Unlike CC∅ however, the Open Data Commons system includes a set of Community Norms that can be linked with the license.
 
-CC∅ will be compliant with the Science Commons protocol for open data, as is the Open Data Commons PDDL. They will both be interoperable, so any data or content made available under either system can be mixed and remixed. Unlike CC∅ however, the Open Data Commons system includes a set of Community Norms that can be linked with the license.
-
-Why two implementations of the Science Commons Open Access Data Mark?
+<h4>Why two implementations of the Science Commons Open Access Data Mark?</h4>
 
 The new Science Commons protocol only outlines what a legal document must do to comply with the protocol and receive the Open Access Data Mark — so anyone can create a legal instrument to comply with the mark. Both implementations will have their strengths, and one of the strengths of the Open Data Commons approach is the Community Norms document, which makes the Open Data Commons approach particularly applicable for data, especially data produced by the academic sector.
