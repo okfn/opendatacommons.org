@@ -6,15 +6,15 @@ body:
 * [Human-readable summary](/licenses/pddl/summary/)
 * [Full legal text of current version (v1.0)](/licenses/pddl/1-0/)
 
-NB: When using the PDDL you may wish to associate a set of complementary Community Norms.
+NB: When using the PDDL you may wish to associate a set of complementary [Community Norms](/norms/odc-by-sa/).
 
 **How to apply**
 
 Insert prominently in all relevant locations a statement such as:
 
-This {DATA(BASE)} is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
+**This {DATA(BASE)} is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
 
-Other ways to apply the license
+**Other ways to apply the license
 
 * You can replace the link with a full copy of the license inline or a link to a local copy of the license, either on your website or to a file distributed along with the database (e.g. a LICENSE.txt)
 * From a strict legal point of view these options, that is copying the text of the PDDL and releasing with the database, either as a part of the database, or as a file released alongside the database, are preferable.
