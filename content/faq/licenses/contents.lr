@@ -2,79 +2,77 @@ title: Licenses FAQ
 ---
 body:
 
-1 General
-1.1 Can One Upgrade Licenses?
-1.2 Why Do You Distinguish Between the “Database” and its “Contents”?
-1.3 Why Not Use a Creative Commons (or Free/Open Source Software License) for Data(bases)?
-2 Open Database License
-2.1 Are Share-Alike Provisions Such as Those in the ODbL Enforceable In All Jurisdictions?
-2.2 Will the ODbL Create Legal Uncertainty?
-2.3 What is ‘Substantial’?
-2.4 Choice of law and jurisdiction clause
-3 Public Domain Dedication & License
-3.1 The Science Commons Protocol mentions “unfair competition” and I don’t see this in the PDDL. What is it and how is it addressed in the PDDL?
+<h2>General</h2>
 
-General
-Can One Upgrade Licenses?
+<h4>Can one upgrade licenses?</h4>
+
 This is issue is only relevant to the ODbL (for all other licenses there is nothing to ‘upgrade’). For the ODbL the answer is yes — subject to some caveats. Similar to the Creative Commons’ share-alike licenses the ODbL has a clause that allows derivative works to be licensed under either a) that ODbL version b) later versions of the ODbL c) a compatible license (any compatible license would, for example, have to contain similar sharealike provisions if it were to be compatible). The intention here is to provide some flexibility to those producing derivative works in the future while ensuring that the key elements of any share-alike provisions are preserved.
 
+<h4>Why do you distinguish between the “Database” and its “Contents”?</h4>
 
-Why Do You Distinguish Between the “Database” and its “Contents”?
 The simplest answer is because they may have separate rights. For example, consider a database of photographs. Here there are the rights in the database and quite separate individual copyrights in the photographs. Or consider the example of Freebase which contains textual material and images from Wikipedia as well as user contributed material. While Freebase controls the database the individual items of contents need to have their own separate license.
 
 Of course much of the time the the Licensor of the database is also in the position to license the rights (if any) in the contents — the classic example would be a database containing factual data. For this reason we’ve created a very simple Database Contents License which you can use in conjunction with the ODbL to ensure that you’ve licensed everything.
 
-To summarize:
+To summarise:
 
-For a homogeneous DB (No need to distinguish “Database” + “Contents” because you control rights in both or no independent rights in the “Contents”)
-For Share-Alike: Use Open Database License (ODbL) + Database Contents License (DbCL) (or some other suitable contents license of your choosing)
-For Public domain: Use Public Domain Dedication and License (PDDL) (it covers both “Database” and “Contents”)
-For non-homogenous DB (need to distinguish “Database and Contents”):
-Share-alike: use ODbL for Database qua Database + whatever license you want/can for Contents
-Public domain: use PDDL for Database qua Database + whatever license you wish/can for Contents.
-Why Not Use a Creative Commons (or Free/Open Source Software License) for Data(bases)?
+1. For a homogeneous DB (No need to distinguish “Database” + “Contents” because you control rights in both or no independent rights in the “Contents”)
+* For Share-Alike: Use Open Database License (ODbL) + Database Contents License (DbCL) (or some other suitable contents license of your choosing)
+* For Public domain: Use Public Domain Dedication and License (PDDL) (it covers both “Database” and “Contents”)
+
+2. For non-homogenous DB (need to distinguish “Database and Contents”):
+* Share-alike: use ODbL for Database qua Database + whatever license you want/can for Contents
+* Public domain: use PDDL for Database qua Database + whatever license you wish/can for Contents.
+
+<h4>Why not use a Creative Commons (or Free/Open Source Software License) for data(bases)?</h4>
+
 Different types of subject matter (e.g. code, content or data) necessitate differences in licensing. Licenses designed for one type of subject matter — as CC licenses were designed for content, and F/OSS licenses for code — aren’t always best suited to licensing another type of subject matter.
 
 The Creative Commons licenses themselves illustrate this point as they were created at a time when there were already a variety of free/open-source software licences available that could, in theory, have been applied to “content” (e.g. text/images/films). However, it was felt that content was different enough from code to warrant a new set of licenses which took account of these differences (even though code shares most of the same IP rights, notably copyright, with “content”).
 
 Specific examples of the differences between data and content relevant to licensing include:
 
-The rights in data(bases) are often significantly different from those in content, both because of the existence of additional IP rights, such as the database right, and because normal copyright applies in a different, and usually ‘lesser’, fashion to data(bases) as compared to content.
-In licensing data(bases) one may need to distinguish between the data(base) and its contents. For example, one may have a database consisting of images and wish to (or have to) license the images (the contents) separately from the database itself.
-
-The distinction between the data(base) and material (content) generated from it (“produced works”) — a distinction which is not relevant when licensing “content”. For example, consider using a geospatial database to generate a map (an image). The map is distinct from the database and, as an image, is a classic piece of “content” but is has been generated from that database. This relationship is different from that between the database and a derivative database (e.g. a database created by adding the locations of post offices to the original database).
-
-The relationship and prominence of derivative works. Data(bases) are unlike content (but similar to code) in having a high level of reuse (as opposed to simple use or redistribution). For example, “mash-ups” are all about recombining and reusing data. This fact needs to be borne in mind when designing the licence and especial attention paid to the issue of reuse and derivative data(bases) — for example how must derivative material be made available when applying share-alike provisions.
+* The rights in data(bases) are often significantly different from those in content, both because of the existence of additional IP rights, such as the database right, and because normal copyright applies in a different, and usually ‘lesser’, fashion to data(bases) as compared to content.
+* In licensing data(bases) one may need to distinguish between the data(base) and its contents. For example, one may have a database consisting of images and wish to (or have to) license the images (the contents) separately from the database itself.
+* The distinction between the data(base) and material (content) generated from it (“produced works”) — a distinction which is not relevant when licensing “content”. For example, consider using a geospatial database to generate a map (an image). The map is distinct from the database and, as an image, is a classic piece of “content” but is has been generated from that database. This relationship is different from that between the database and a derivative database (e.g. a database created by adding the locations of post offices to the original database).
+* The relationship and prominence of derivative works. Data(bases) are unlike content (but similar to code) in having a high level of reuse (as opposed to simple use or redistribution). For example, “mash-ups” are all about recombining and reusing data. This fact needs to be borne in mind when designing the licence and especial attention paid to the issue of reuse and derivative data(bases) — for example how must derivative material be made available when applying share-alike provisions.
 
 These sorts of issues suggest one may should be cautious in directly applying, say, Creative Commons licenses to data(bases). In fact, Creative Commons have themselves have recommended against using their licenses (other than CCZero) for data and databases (which is also a reason, in and of itself, not to use CC licenses (other than CCZero) for data, as CC are unlikely to able/willing to fix data-specific issues that arise in relation to those licenses).
 
-Open Database License
-Are Share-Alike Provisions Such as Those in the ODbL Enforceable In All Jurisdictions?
-Summary: the ODbL and its Share-Alike provisions will apply in a good number of jurisdictions (either via “rights” or contract). Where there is any uncertainty about the existence of “rights” or a contract no other licenses can do any better and at worst the license becomes a very clear statement of your “community norms”.
+<h2>Open Database License</h2>
 
-Details: This is a license for data and databases, as such you the licensor must be aware that any conditions you impose, such as Share Alike, depend on:
+<h4>Are Share-Alike provisions such as those in the ODbL enforceable in all jurisdictions?</h4>
 
-EITHER: You having IP rights over the material (whether in copyright, or database right)
-OR: This license being considered a contract between you (the licensor) and the user of the database.
+**Summary**: The ODbL and its Share-Alike provisions will apply in a good number of jurisdictions (either via “rights” or contract). Where there is any uncertainty about the existence of “rights” or a contract no other licenses can do any better and at worst the license becomes a very clear statement of your “community norms”.
+
+**Details**: This is a license for data and databases, as such you the licensor must be aware that any conditions you impose, such as Share-Alike, depend on:
+
+* EITHER: You having IP rights over the material (whether in copyright, or database right)
+* OR: This license being considered a contract between you (the licensor) and the user of the database.
+
 The rights around data and databases haven’t been harmonized internationally to the same extent as copyright. As a result, the on-the-ground protection of databases by law can vary significantly country-by-country. In some jurisdictions, e.g. the EU, the relevant “DB” rights certainly do exist, while in others, e.g. the USA, the situation is less clear.
 
 Where neither “DB” rights or a contracts exists no license will be enforceable. If this is of concern to you your only real alternative is to not make the database available.
 
-Will the ODbL Create Legal Uncertainty?
-The simple answer is: NO.
+<h4>Will the ODbL create legal uncertainty?</h4>
 
-As a User of ODbL licensed material: in order to have total legal certainty all you need to do is comply with the terms of the ODbL (in particular the share-alike requirement).
+The simple answer is: no.
 
-As a Licensor using the ODbL for your own material: as explained in the previous FAQ it is possible that in some jurisdictions there will be uncertainty as to whether there are sufficient underlying “rights” for the ODbL (or any other license) to have effect. However:
+**As a User of ODbL licensed material**: in order to have total legal certainty all you need to do is comply with the terms of the ODbL (in particular the share-alike requirement).
 
-The ODbL will apply in many jurisdictions (either via “rights” or contract).
-Where there is any uncertainty about the existence of “rights” or a contract no other approach can do any better and at worst this license becomes a very clear statement of your “community norms”.
-What is ‘Substantial’?
+**As a Licensor using the ODbL for your own material**: as explained in the previous FAQ it is possible that in some jurisdictions there will be uncertainty as to whether there are sufficient underlying “rights” for the ODbL (or any other license) to have effect. However:
+
+* The ODbL will apply in many jurisdictions (either via “rights” or contract).
+* Where there is any uncertainty about the existence of “rights” or a contract no other approach can do any better and at worst this license becomes a very clear statement of your “community norms”.
+
+<h4>What is ‘substantial’?</h4>
+
 The ODbL talks about ‘substantial’ part of the contents in relation to ‘Extraction’ and ‘Reutilisation’. This terminology derives from the Database directive and determining what exactly substantial means is ultimately up to the courts.
 
 A community could draft its own guidelines if it wished and these would likely exercise a strong influence on most users (after all most compliance is driven by the community not by the courts). However, it would be important to realise that the exact interpretation would remain with the courts.
 
-Choice of law and jurisdiction clause
+<h4>Choice of law and jurisdiction clause</h4>
+
 Often in commercial agreements (contracts or licenses or both) it is a good idea to put clauses such as choice of law (what law applies) and choice of jurisdiction (the forum agreed to by the parties) into the agreement. As a side note, agreements also often specify mediation or arbitration as a way to resolve disputes among the parties (though this varies in enforceability).
 
 The difficulty in applying these clauses to open licenses, and specifically to the ODbL, lies in that the scope of the ODbL is global and may involve parties anywhere in the world in a wide variety of uses. So in effect there is a conflict between a “Public Licence”, which is meant to be somewhat generic and apply to a wide audience (and thereby create a broader community of users) and what may be desirable or enforceable for one specific project with one specific type of database.
@@ -83,18 +81,21 @@ The ODbL allows for the choice of law to be where the licence is being enforced 
 
 The approach of not setting a certain jurisdiction is the same as taken in the Creative Commons “unported” licenses.
 
-Public Domain Dedication & License
-The Science Commons Protocol mentions “unfair competition” and I don’t see this in the PDDL. What is it and how is it addressed in the PDDL?
+<h2>Public Domain Dedication & License</h2>
+
+<h4>The Science Commons Protocol mentions “unfair competition” and I don’t see this in the PDDL. What is it and how is it addressed in the PDDL?</h4>
+
 The short answer to the unfair competition issue is that after some initial research it looks like that most (if not all) unfair competition claims would be negated by using this document and making the data publicly available.
 
 “Unfair competition” in US law (presumably what was intended by Science Commons) is a REALLY broad term for quite a few distinctly different rights of action, including:
 
-Trade secrets;
-Publicity rights;
-Trade mark claims;
-Passing off (which is a lot like trade mark);
-Deceptive advertising;
-Other kinds of unfair methods of competition
+* Trade secrets;
+* Publicity rights;
+* Trade mark claims;
+* Passing off (which is a lot like trade mark);
+* Deceptive advertising;
+* Other kinds of unfair methods of competition
+
 As you can imagine, the areas outlined above have a variety of different elements. One common theme that could be said about many of these areas is that they involve using some aspect of a business without permission. And permission to use the data is, after all, what is granted in the PDDL.
 
 Take trade secrets for example. The law protects secret information. If you use the Public Domain Dedication & Licence and make your data available via the internet, it can’t be a secret any more because you’ve let everyone see it. So there isn’t a need to address this in the licence.
