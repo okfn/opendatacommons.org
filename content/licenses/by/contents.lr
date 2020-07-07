@@ -10,7 +10,7 @@ body:
 
 Insert prominently in all relevant locations a statement such as (replacing {DATA(BASE)-NAME} with the name of your data/database):
 
-**This {DATA(BASE)-NAME} is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/{version}.**
+**This {DATA(BASE)-NAME} is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1-0/.**
 
 **Notes**
 
