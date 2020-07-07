@@ -9,15 +9,15 @@ body:
 
 <h2>General</h2>
 
-<h4>Who Manages Open Data Commons?</h4>
+<h4>Who manages Open Data Commons?</h4>
 
 Open Data Commons is maintained by the [Open Knowledge Foundation](https://okfn.org/).
 
-<h4>I Want to Get in Touch, How Do I Do That?</h4>
+<h4>I want to get in touch. How do I do that?</h4>
 
-Have a question not answered here, want to participate in our work, want to get in touch for whatever reason? See the contact page for information on how do so including details of our public community discussion list.
+Have a question not answered here, want to participate in our work, want to get in touch for whatever reason? See the [contact page](/contact/) for information on how do so including details of our public community discussion list.
 
-<h4>Why Does Openness and Licensing Matter?</h4>
+<h4>Why does openness and licensing matter?</h4>
 
 Why bother about openness and licensing for data? After all they don’t matter in themselves: what we really care about are things like the progress of human knowledge or the freedom to understand and share.
 
@@ -47,15 +47,15 @@ See the dedicated [Licenses FAQ](/faq/licenses/).
 
 See the FAQ section on the [Community Norms page](/norms/).
 
-<h2>Relation to Other Tools</h2>
+<h2>Relation to other tools</h2>
 
-<h4>CC ∅?</h4>
+<h4>CC0?</h4>
 
-CC ∅ (CC Zero) is a new licence from Creative Commons that is very similar to the [PDDL](/licenses/pddl/). Like the [PDDL](/licenses/pddl/) it also complies with the Science Commons protocol. For more, see the [page on their wiki](https://wiki.creativecommons.org/wiki/CC0).
+CC0 (CC Zero) is a licence from Creative Commons that is very similar to the [PDDL](/licenses/pddl/). Like the [PDDL](/licenses/pddl/) it also complies with the Science Commons protocol. For more, see the [page on the Creative Commons website](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-<h4>What is the relationship with Open Data Commons and the new CC∅?</h4>
+<h4>What is the relationship with Open Data Commons and the new CC0?</h4>
 
-CC∅ will be compliant with the Science Commons protocol for open data, as is the Open Data Commons [PDDL](/licenses/pddl/). They will both be interoperable, so any data or content made available under either system can be mixed and remixed. Unlike CC∅ however, the Open Data Commons system includes a set of Community Norms that can be linked with the license.
+CC0 is compliant with the Science Commons protocol for open data, as is the Open Data Commons [PDDL](/licenses/pddl/). They are both interoperable, so any data or content made available under either system can be mixed and remixed. Unlike CC0 however, the Open Data Commons system includes a set of Community Norms that can be linked with the license.
 
 <h4>Why two implementations of the Science Commons Open Access Data Mark?</h4>
 
