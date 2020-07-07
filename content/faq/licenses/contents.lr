@@ -37,7 +37,7 @@ Specific examples of the differences between data and content relevant to licens
 * The distinction between the data(base) and material (content) generated from it (“produced works”) — a distinction which is not relevant when licensing “content”. For example, consider using a geospatial database to generate a map (an image). The map is distinct from the database and, as an image, is a classic piece of “content” but is has been generated from that database. This relationship is different from that between the database and a derivative database (e.g. a database created by adding the locations of post offices to the original database).
 * The relationship and prominence of derivative works. Data(bases) are unlike content (but similar to code) in having a high level of reuse (as opposed to simple use or redistribution). For example, “mash-ups” are all about recombining and reusing data. This fact needs to be borne in mind when designing the licence and especial attention paid to the issue of reuse and derivative data(bases) — for example how must derivative material be made available when applying share-alike provisions.
 
-These sorts of issues suggest one may should be cautious in directly applying, say, Creative Commons licenses to data(bases). In fact, Creative Commons have themselves have recommended against using their licenses (other than CCZero) for data and databases (which is also a reason, in and of itself, not to use CC licenses (other than CCZero) for data, as CC are unlikely to able/willing to fix data-specific issues that arise in relation to those licenses).
+These sorts of issues suggest one may should be cautious in directly applying, say, Creative Commons licenses to data(bases). In fact, Creative Commons have themselves have recommended against using their licenses (other than CC0) for data and databases (which is also a reason, in and of itself, not to use CC licenses (other than CC0) for data, as CC are unlikely to able/willing to fix data-specific issues that arise in relation to those licenses).
 
 <h2>Open Database License</h2>
 
@@ -50,7 +50,7 @@ These sorts of issues suggest one may should be cautious in directly applying, s
 * EITHER: You having IP rights over the material (whether in copyright, or database right)
 * OR: This license being considered a contract between you (the licensor) and the user of the database.
 
-The rights around data and databases haven’t been harmonized internationally to the same extent as copyright. As a result, the on-the-ground protection of databases by law can vary significantly country-by-country. In some jurisdictions, e.g. the EU, the relevant “DB” rights certainly do exist, while in others, e.g. the USA, the situation is less clear.
+The rights around data and databases haven’t been harmonised internationally to the same extent as copyright. As a result, the on-the-ground protection of databases by law can vary significantly country-by-country. In some jurisdictions, e.g. the EU, the relevant “DB” rights certainly do exist, while in others, e.g. the USA, the situation is less clear.
 
 Where neither “DB” rights or a contracts exists no license will be enforceable. If this is of concern to you your only real alternative is to not make the database available.
 
