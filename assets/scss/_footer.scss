@@ -74,11 +74,10 @@ html {
         fill: currentColor;
     }
 
-    .footer-primary-links {
-      display:none;
-    }
-
     .footer-secondary-links {
+      ul {
+        padding-left: 0;
+      }
 
       @media (min-width: $large-screen) {
         float: right;
