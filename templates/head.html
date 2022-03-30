@@ -1,8 +1,3 @@
-{% if bag('settings.googleanalytics') %}
-<script>
-  var okiConsent = {
-    analyticsTrackingID: "{{ bag('settings.googleanalytics') }}"
-  };
-</script>
-<script src="https://a.okfn.org/html/oki/consent/assets/js/consent.js"></script>
+{% if bag('settings.use_plausible') %}
+<script defer data-domain="opendatacommons.org" src="https://plausible.io/js/plausible.js"></script>
 {% endif %}
