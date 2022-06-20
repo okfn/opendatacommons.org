@@ -1,3 +1,5 @@
+click==8.1.2  # wait for https://github.com/pallets/click/issues/2292 and remove
+
 Lektor==3.3.3
 lektor-scss==1.4.1
 lektor-npm-support==0.1.4
