@@ -1,4 +1,4 @@
-# Open Data Commons: Legal tools for Open Data
+# Open Data Commons 
 
 The [opendatacommons.org](https://opendatacommons.org/) static site is:
 
