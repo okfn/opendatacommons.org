@@ -358,7 +358,7 @@ distributions and free of charge if distributed over the internet.
   b. Parallel distribution. You may impose terms or technological
   measures on the Database, a Derivative Database, or the whole or a
   Substantial part of the Contents (a "Restricted Database") in
-  contravention of Section 4.74 a. only if You also make a copy of the
+  contravention of Section 4.7 a. only if You also make a copy of the
   Database or a Derivative Database available to the recipient of the
   Restricted Database:
 
